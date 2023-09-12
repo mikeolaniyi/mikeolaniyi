@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1700092800&v=beta&t=XmuH036P2YZ2vprAwep065jCQZMSbv4AycW6JaPbMro)
 
 <h1 align="center">Hi 👋, I'm Michael Olaniyi Jeremiah</h1>
-<h3 align="center">A Certified Data Analyst who Transforms Raw Data into Actionable Insights for Informed Decision-Making</h3>
+<h3 align="center">A Certified and Passionate Data Analyst who Transforms Raw Data into Actionable Insights for Informed Decision-Making</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-1.gif">
 
 
