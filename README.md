@@ -22,7 +22,7 @@
 - 💬 Ask me about **Python, SQL, Power BI, Tableau, Excel, Google Sheets**
 
 - 📫 How to reach me **Michaeljeremiah124@gmail.com**
-
+ 
 - ⚡ Fun fact **I am fun and inspiring to have around you.**
 
 <h3 align="left">Connect with me:</h3>
