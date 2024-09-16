@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/mikeolaniyi01" target="blank"><img src="https://img.shields.io/twitter/follow/mikeolaniyi01?logo=twitter&style=for-the-badge" alt="mikeolaniyi01" /></a> </p>
 
-- 🔭 I love continuous learning**
+- 🔭 I love continuous learning
 
-- 🌱 I’m open to work independenttly or with a team, **to contribute, make impact and to learn**
+- 🌱 I’m open to working independently or with a team, **to contribute, make an impact and learn**
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://michaelolaniyij.vercel.app/)
 
