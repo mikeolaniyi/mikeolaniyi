@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/mikeolaniyi01" target="blank"><img src="https://img.shields.io/twitter/follow/mikeolaniyi01?logo=twitter&style=for-the-badge" alt="mikeolaniyi01" /></a> </p>
 
-- 🔭 I’m currently working on **Project on Power BI**
+- 🔭 I love continuous learning**
 
-- 🌱 I’m currently learning **Advance Courses on Power BI**
+- 🌱 I’m open to work independenttly or with a team, **to contribute, make impact and to learn**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://michaelolaniyij.vercel.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://michaelolaniyij.vercel.app/)
 
-- 📝 I regularly write articles on LinkedIn [Connect with me on LinkedIn](https://www.linkedin.com/in/michael-olaniyi-jeremiah/)
+- 📝 For my articles and content on LinkedIn [Connect with me on LinkedIn](https://www.linkedin.com/in/michael-olaniyi-jeremiah/)
 
-- 💬 Ask me about **Python, SQL, Power BI, Tableau, Excel, Google Sheets**
+- 💬 Talk to me about **Your projects**
 
-- 📫 How to reach me **Michaeljeremiah124@gmail.com**
+- 📫 Reach me with **Michaeljeremiah124@gmail.com**
  
 - ⚡ Fun fact **I am fun and inspiring to have around you.**
 
